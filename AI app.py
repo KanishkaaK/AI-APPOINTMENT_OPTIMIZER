@@ -76,7 +76,7 @@ if st.button(" Predict Availability"):
             'gender_encoded',
             'past_miss_count',
             'distance_from_clinic_km',
-            'contact_verified_encoded'
+            'contact_verified'
         ]
     )
     
