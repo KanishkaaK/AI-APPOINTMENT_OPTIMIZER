@@ -67,16 +67,16 @@ if st.button(" Predict Availability"):
         [[doctor_encoded, appointment_hour_12, appointment_day_of_week, delay_mins, appointment_type_encoded,
           patient_age, gender_encoded, past_miss_count, distance_from_clinic_km, contact_verified_encoded]],
         columns=[
-            'doctor_id_encoded',
+            'doctor_id',
             'appointment_hour',
             'day_of_week',
             'delay_mins',
-            'appointment_type_encoded',
+            'appointment_type',
             'patient_age',
-            'gender_encoded',
+            'gender',
             'past_miss_count',
             'distance_from_clinic_km',
-            'contact_verified'
+            'contact_number'
         ]
     )
     
