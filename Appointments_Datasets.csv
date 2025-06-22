@@ -1,0 +1,1007 @@
+doctor_id,appointment_hour,day_of_week,delay_mins,appointment_type,patient_age,gender,past_miss_count,distance_from_clinic_km,contact_number,miss
+D005,10:00,5,10,test,33,Female,5,2,0,0
+D007,10:00,0,0,test,32,Other,4,12,1,1
+D008,07:30,2,30,follow up,25,Female,3,7,1,1
+D008,18:30,0,15,consultation,50,Female,4,5,1,1
+D002,07:30,0,15,follow up,75,Female,5,12,1,0
+D001,09:00,5,5,checkup,15,Male,0,7,0,0
+D009,11:00,2,5,consultation,14,Male,5,3,1,0
+D010,06:30,5,25,checkup,46,Female,1,16,0,1
+D007,18:30,4,25,checkup,32,Other,3,8,0,1
+D002,09:30,1,25,consultation,79,Male,4,8,0,1
+D003,07:00,3,0,test,19,Female,5,3,0,0
+D001,14:30,4,15,consultation,75,Male,5,14,0,1
+D002,15:00,3,5,follow up,5,Other,5,5,1,1
+D003,19:00,4,20,checkup,24,Female,1,11,1,0
+D007,11:30,0,0,consultation,44,Male,0,5,1,0
+D003,15:00,6,20,test,21,Other,3,19,1,0
+D005,13:30,3,5,checkup,44,Male,5,13,0,0
+D010,07:00,1,0,consultation,7,Male,4,5,1,1
+D001,07:00,5,0,follow up,13,Other,2,1,0,0
+D003,15:30,4,5,checkup,36,Other,3,4,1,0
+D001,07:00,3,15,consultation,11,Female,5,19,0,1
+D010,17:30,2,30,checkup,36,Other,1,11,0,0
+D006,16:30,3,5,test,61,Other,0,1,1,0
+D006,19:30,1,15,follow up,66,Female,3,18,0,0
+D004,09:00,2,30,checkup,41,Male,5,19,0,0
+D008,14:00,2,5,follow up,79,Female,4,1,1,1
+D006,14:30,6,20,consultation,12,Other,0,17,0,0
+D002,15:00,6,5,consultation,20,Other,1,11,1,1
+D006,20:30,5,20,checkup,38,Male,5,14,1,1
+D002,20:00,5,25,checkup,63,Female,0,0,1,0
+D002,11:00,4,10,consultation,49,Male,1,7,0,1
+D006,14:00,2,20,consultation,75,Female,5,2,0,0
+D002,09:00,4,5,follow up,41,Female,1,14,0,0
+D005,17:00,3,10,test,16,Male,3,16,1,1
+D008,12:00,5,10,consultation,61,Male,5,8,0,1
+D008,18:00,1,20,follow up,52,Female,4,3,1,1
+D003,09:30,6,30,follow up,50,Female,5,5,1,0
+D001,12:00,4,25,follow up,35,Other,1,17,0,0
+D002,08:00,6,25,consultation,39,Male,5,2,1,1
+D004,11:30,6,15,consultation,44,Male,1,1,0,0
+D003,17:30,6,0,test,49,Other,4,8,0,0
+D009,13:00,2,5,consultation,9,Male,4,9,0,0
+D004,09:00,0,15,checkup,37,Male,5,9,0,0
+D004,18:00,5,10,consultation,20,Other,2,10,0,1
+D009,17:00,1,5,follow up,53,Other,5,18,1,0
+D007,16:30,2,10,consultation,60,Other,4,13,1,1
+D006,16:30,5,20,checkup,16,Other,5,6,1,0
+D010,18:00,3,20,follow up,63,Other,5,11,0,1
+D003,09:30,1,25,consultation,18,Female,1,3,0,1
+D009,06:00,1,30,test,63,Female,3,13,0,0
+D009,14:00,6,25,follow up,75,Other,1,15,1,1
+D009,10:00,5,5,follow up,61,Female,5,6,0,1
+D007,10:00,0,5,consultation,34,Other,5,3,1,1
+D003,11:00,2,20,consultation,58,Female,1,16,1,1
+D002,19:30,2,10,consultation,58,Other,5,14,0,1
+D008,10:30,2,15,consultation,8,Female,2,13,0,1
+D007,08:30,4,20,test,55,Female,4,13,1,0
+D010,17:00,6,15,test,11,Other,3,6,0,0
+D006,16:30,2,30,consultation,65,Other,5,11,1,0
+D004,19:30,0,30,checkup,36,Other,0,12,0,0
+D008,11:30,0,20,checkup,64,Other,2,15,0,0
+D003,16:30,5,0,test,44,Other,4,1,1,0
+D001,17:00,1,0,follow up,18,Male,2,17,0,1
+D002,16:30,3,25,follow up,13,Male,5,7,1,0
+D010,10:30,2,25,follow up,24,Other,1,14,0,0
+D009,11:30,4,10,test,36,Female,2,17,1,1
+D002,11:00,4,25,consultation,48,Female,3,17,1,0
+D008,07:00,6,10,checkup,40,Female,5,17,0,1
+D003,16:30,3,15,test,65,Other,5,10,1,0
+D004,08:00,5,5,test,79,Other,3,11,0,1
+D007,10:00,3,10,follow up,37,Male,0,14,0,1
+D005,20:00,5,15,checkup,80,Female,4,6,0,0
+D001,18:30,1,10,consultation,43,Male,5,10,1,0
+D009,17:30,2,25,consultation,67,Other,0,11,1,1
+D009,20:30,2,30,checkup,19,Male,3,10,0,1
+D007,06:30,6,20,consultation,15,Male,0,11,0,1
+D009,09:00,3,15,follow up,80,Other,2,11,1,1
+D007,14:30,5,5,checkup,15,Female,1,3,0,0
+D005,19:30,3,25,checkup,42,Other,1,6,0,0
+D008,19:30,5,5,checkup,80,Other,1,8,1,0
+D004,19:00,0,0,checkup,44,Other,5,16,0,1
+D005,12:00,2,25,consultation,39,Female,4,10,1,1
+D006,18:30,5,10,test,8,Other,1,19,0,0
+D009,07:00,0,30,test,65,Female,5,9,1,0
+D004,19:00,5,30,checkup,16,Other,2,8,0,0
+D002,16:30,3,10,consultation,75,Female,3,2,0,0
+D008,11:30,6,20,checkup,74,Male,3,1,1,1
+D005,16:30,1,10,checkup,67,Male,0,19,0,1
+D006,06:30,4,15,follow up,33,Female,3,19,1,1
+D003,15:00,5,10,consultation,66,Other,1,9,0,0
+D001,14:30,4,25,test,13,Male,3,7,1,0
+D001,06:00,4,25,consultation,24,Male,4,9,1,1
+D005,08:30,5,5,checkup,34,Male,0,6,1,1
+D007,06:30,0,5,consultation,17,Male,0,10,1,1
+D010,08:30,1,0,checkup,38,Male,4,14,0,1
+D001,09:00,2,25,consultation,74,Female,4,1,0,0
+D007,16:00,0,15,consultation,17,Other,1,14,1,1
+D005,20:30,2,10,consultation,23,Male,4,8,1,0
+D008,06:00,4,30,test,35,Other,4,3,1,0
+D007,20:00,0,30,test,41,Female,4,3,0,0
+D005,09:30,2,15,consultation,30,Female,3,2,0,0
+D001,19:00,3,10,consultation,77,Female,5,19,0,1
+D010,20:30,4,30,test,33,Female,1,12,0,0
+D003,19:30,5,0,consultation,61,Female,4,7,1,1
+D010,18:30,5,15,follow up,30,Male,4,17,1,1
+D006,13:30,5,30,follow up,19,Male,0,3,1,0
+D007,18:30,0,30,checkup,6,Male,4,2,0,0
+D004,09:00,0,20,checkup,33,Male,0,12,0,1
+D001,08:00,1,0,test,43,Male,0,2,0,0
+D007,15:30,5,25,test,80,Female,5,3,1,0
+D004,07:00,2,5,consultation,61,Other,2,2,1,0
+D001,20:30,1,0,follow up,16,Female,1,13,0,0
+D002,20:00,1,30,consultation,13,Other,1,11,1,1
+D004,19:30,0,10,checkup,21,Male,2,16,0,1
+D007,15:00,0,10,follow up,80,Other,0,3,0,1
+D003,13:30,0,25,test,65,Female,2,10,1,1
+D004,17:30,4,0,follow up,63,Female,0,1,0,1
+D002,13:30,5,15,checkup,15,Female,4,3,1,0
+D006,19:30,4,20,test,53,Other,4,6,0,1
+D001,18:30,5,30,checkup,60,Other,1,8,1,1
+D004,08:30,3,10,checkup,52,Other,5,18,1,1
+D008,18:00,3,0,test,21,Female,0,11,1,1
+D004,11:30,6,15,consultation,41,Male,2,7,0,0
+D001,12:00,6,0,consultation,76,Other,0,15,0,0
+D009,09:30,4,25,consultation,39,Other,1,5,1,0
+D009,16:30,1,30,checkup,77,Other,3,1,1,0
+D002,10:00,4,5,consultation,58,Male,2,3,0,1
+D005,08:00,1,30,checkup,15,Female,3,13,0,1
+D002,19:30,6,20,follow up,49,Male,0,6,0,0
+D009,12:30,3,20,checkup,5,Other,2,18,1,1
+D005,12:00,0,0,consultation,60,Female,1,7,0,0
+D003,20:30,6,25,consultation,60,Male,3,18,0,0
+D006,15:30,5,25,consultation,42,Other,3,0,1,0
+D010,18:30,3,30,follow up,36,Other,4,8,0,0
+D008,15:00,2,5,checkup,26,Female,4,12,0,1
+D009,20:30,6,25,follow up,35,Male,1,5,0,0
+D002,15:30,0,5,follow up,64,Other,4,9,1,1
+D006,16:00,3,0,checkup,61,Male,2,16,1,1
+D008,10:30,0,0,checkup,41,Male,5,17,1,0
+D009,14:30,4,30,consultation,62,Male,5,4,1,1
+D008,09:30,0,30,test,15,Female,5,3,1,1
+D009,17:00,4,20,checkup,51,Male,2,8,1,0
+D001,12:00,4,25,follow up,41,Female,5,17,1,0
+D001,10:30,5,5,checkup,44,Other,5,13,0,0
+D003,15:00,4,15,test,21,Male,5,16,0,0
+D008,12:30,2,0,test,44,Female,1,7,1,0
+D010,14:30,0,10,follow up,69,Male,5,17,0,1
+D010,14:30,1,20,test,24,Male,1,16,0,1
+D007,07:30,5,25,checkup,61,Male,2,15,1,0
+D003,11:30,2,25,follow up,64,Male,3,10,0,0
+D004,12:00,5,15,consultation,75,Male,5,17,0,1
+D002,10:00,3,20,consultation,60,Male,1,16,0,0
+D001,20:30,3,20,follow up,35,Other,0,7,0,0
+D009,13:00,5,10,follow up,22,Other,2,18,0,0
+D009,06:00,4,0,consultation,7,Female,1,16,1,1
+D010,13:30,1,10,checkup,11,Male,3,13,1,0
+D009,12:00,4,0,consultation,23,Other,3,0,1,1
+D009,14:00,5,0,follow up,13,Female,4,10,0,1
+D003,10:30,0,25,consultation,52,Male,5,0,1,0
+D009,16:30,5,30,test,22,Male,2,11,0,1
+D010,09:30,0,25,consultation,9,Male,1,1,0,0
+D002,12:00,2,20,consultation,74,Other,2,1,0,1
+D005,13:30,2,10,consultation,52,Female,3,15,0,1
+D002,08:00,5,15,consultation,71,Female,0,14,1,1
+D001,06:00,4,10,test,18,Other,2,13,1,0
+D008,07:30,3,0,test,60,Other,5,19,0,1
+D004,17:00,4,30,follow up,8,Other,4,13,1,0
+D006,13:30,2,10,follow up,77,Other,4,3,0,0
+D008,07:30,4,5,follow up,55,Male,5,5,1,0
+D010,15:00,4,15,test,38,Male,5,9,1,1
+D001,18:30,6,0,test,27,Other,3,19,0,1
+D005,13:00,0,20,test,43,Other,5,14,1,0
+D003,08:30,1,30,consultation,8,Female,4,11,0,1
+D010,14:30,3,25,checkup,72,Female,3,16,1,0
+D005,14:00,0,15,checkup,71,Female,1,17,0,1
+D002,08:30,6,0,consultation,71,Other,2,3,0,0
+D003,12:30,2,30,follow up,37,Other,5,19,1,1
+D007,07:30,4,0,test,80,Other,1,3,1,0
+D007,09:00,5,30,consultation,31,Female,3,12,0,1
+D008,06:30,5,10,test,36,Other,3,6,1,0
+D004,10:30,3,15,follow up,64,Female,2,12,1,0
+D004,17:00,1,30,follow up,70,Male,0,6,0,0
+D001,09:30,0,0,follow up,54,Other,3,5,0,1
+D003,16:30,4,15,checkup,44,Female,0,2,1,1
+D002,09:30,0,0,checkup,68,Female,5,13,0,0
+D008,11:30,3,5,follow up,51,Other,2,1,0,1
+D010,17:00,2,20,consultation,14,Female,4,9,0,1
+D006,08:30,3,10,checkup,76,Female,1,4,1,1
+D008,11:00,1,25,consultation,65,Female,3,3,1,1
+D010,11:30,1,15,test,80,Female,4,16,0,0
+D010,17:00,2,25,checkup,58,Other,2,16,1,0
+D005,14:30,5,30,test,11,Other,3,3,0,1
+D003,14:30,1,0,follow up,29,Other,3,6,1,1
+D003,12:30,4,30,follow up,12,Other,1,10,0,1
+D010,19:00,4,10,checkup,38,Other,3,4,0,0
+D010,17:00,1,10,checkup,31,Male,5,10,1,0
+D003,19:00,4,25,follow up,55,Male,1,6,0,1
+D007,06:00,3,25,checkup,66,Male,1,16,1,1
+D006,17:30,2,5,follow up,80,Male,1,1,1,1
+D003,16:00,2,25,consultation,17,Female,1,0,0,1
+D002,17:30,3,15,test,41,Other,2,13,0,1
+D008,16:30,4,25,test,27,Female,1,18,1,0
+D005,09:30,1,25,test,9,Other,2,11,0,0
+D005,12:00,3,25,checkup,22,Male,3,5,0,1
+D003,11:00,2,25,test,6,Female,2,15,0,1
+D010,13:30,6,25,consultation,59,Female,2,2,0,0
+D010,12:00,0,10,follow up,35,Other,2,19,0,0
+D001,15:00,1,0,consultation,64,Female,1,8,1,1
+D006,16:00,1,5,follow up,24,Other,5,19,1,0
+D008,11:30,6,5,follow up,15,Female,3,10,0,0
+D008,12:30,1,20,follow up,26,Male,4,9,0,1
+D010,19:00,6,0,consultation,21,Female,3,9,0,1
+D001,16:30,6,10,consultation,55,Other,0,15,1,1
+D009,18:30,0,20,test,13,Other,0,6,0,0
+D010,08:00,5,25,follow up,52,Other,3,17,1,1
+D003,13:30,5,30,test,20,Other,4,8,1,0
+D004,13:30,6,0,follow up,64,Female,5,11,1,0
+D004,13:30,2,5,checkup,29,Female,0,1,0,1
+D006,18:00,0,0,follow up,62,Male,5,14,1,1
+D009,08:00,3,5,checkup,12,Male,4,19,0,1
+D007,08:30,4,20,test,35,Male,1,19,1,1
+D010,06:00,4,20,test,59,Male,3,1,0,1
+D003,08:00,1,10,follow up,28,Male,3,5,1,0
+D009,12:30,0,20,follow up,58,Female,4,3,0,0
+D004,13:30,5,0,consultation,52,Male,4,14,1,0
+D001,19:00,5,20,consultation,14,Female,4,14,0,0
+D010,19:00,0,5,consultation,20,Other,3,18,0,1
+D003,20:00,4,10,test,53,Male,4,13,0,0
+D002,10:00,6,25,follow up,45,Female,2,6,0,1
+D007,13:00,1,0,consultation,75,Female,4,14,1,1
+D004,15:30,1,15,follow up,68,Male,5,18,1,1
+D010,10:00,5,30,consultation,26,Female,5,11,0,1
+D003,17:00,0,20,consultation,14,Other,0,15,1,1
+D005,13:30,1,20,checkup,52,Male,4,12,0,0
+D009,12:00,0,20,test,6,Male,4,14,0,0
+D003,12:30,5,15,test,18,Female,4,3,1,1
+D003,20:00,6,10,follow up,55,Other,2,19,0,0
+D006,17:00,6,30,test,9,Female,3,7,0,0
+D007,13:30,1,0,test,60,Male,2,11,1,1
+D002,20:30,4,15,consultation,10,Other,5,18,0,0
+D006,14:30,1,20,test,55,Other,2,3,0,1
+D008,12:30,4,10,checkup,22,Female,5,2,0,1
+D003,12:30,1,30,consultation,48,Female,4,19,0,1
+D007,08:30,2,30,checkup,67,Female,2,11,1,0
+D006,15:30,6,5,test,15,Female,1,7,1,0
+D009,17:00,0,0,consultation,61,Male,2,2,1,1
+D006,18:00,4,20,follow up,18,Other,0,7,0,0
+D010,20:00,6,15,consultation,42,Male,3,15,0,1
+D004,09:00,1,10,consultation,39,Female,1,1,1,1
+D007,06:00,2,10,checkup,68,Female,4,4,0,1
+D010,07:00,3,10,checkup,47,Female,2,8,0,0
+D009,19:00,4,25,checkup,66,Male,1,19,0,0
+D001,16:30,6,30,consultation,51,Male,4,4,0,1
+D005,17:30,6,10,consultation,57,Female,3,3,1,0
+D002,18:30,3,20,consultation,73,Female,5,8,1,0
+D006,06:30,6,20,checkup,18,Other,5,13,1,1
+D001,17:00,4,25,checkup,47,Female,0,0,0,1
+D004,16:30,4,20,consultation,62,Other,3,9,1,1
+D003,09:30,0,10,consultation,15,Male,5,3,1,1
+D005,18:30,3,25,consultation,45,Female,2,1,0,0
+D006,18:30,1,20,checkup,47,Male,3,19,0,1
+D002,07:00,1,5,checkup,55,Other,5,12,1,1
+D001,11:30,3,0,follow up,31,Female,5,16,1,0
+D008,16:00,1,10,test,30,Male,0,5,1,1
+D005,08:30,4,15,test,49,Male,3,12,1,1
+D005,07:00,0,5,test,19,Male,2,14,0,1
+D007,09:30,5,20,test,76,Other,3,6,1,1
+D004,18:00,0,30,checkup,6,Female,1,4,1,1
+D006,06:00,3,15,checkup,67,Male,0,11,0,0
+D006,17:30,1,20,follow up,26,Female,4,15,1,0
+D005,15:00,4,30,checkup,61,Male,1,19,0,1
+D005,14:30,6,0,checkup,38,Male,0,9,0,1
+D008,08:00,2,30,consultation,26,Male,1,15,0,1
+D004,14:30,4,10,consultation,46,Female,2,6,1,1
+D009,20:30,6,0,checkup,57,Female,2,17,1,1
+D005,14:00,1,25,follow up,36,Female,3,10,0,1
+D007,18:30,5,30,test,56,Female,5,5,1,1
+D009,17:00,4,0,consultation,63,Male,5,14,1,1
+D005,20:30,3,10,checkup,41,Female,4,11,0,1
+D004,20:00,6,30,follow up,7,Male,1,9,0,1
+D004,07:00,5,5,follow up,25,Other,0,13,1,1
+D002,16:00,5,5,test,55,Female,2,14,0,0
+D003,15:00,1,15,checkup,21,Female,1,10,1,0
+D010,19:30,6,15,consultation,66,Female,1,8,1,0
+D009,12:30,2,5,follow up,22,Female,5,3,1,1
+D002,16:00,2,25,follow up,24,Female,4,13,1,0
+D004,12:30,5,15,checkup,59,Other,1,5,0,0
+D008,07:00,4,20,consultation,55,Other,5,1,0,1
+D009,20:00,0,5,follow up,14,Other,0,19,0,0
+D004,06:30,2,20,follow up,65,Other,0,12,0,1
+D002,11:30,0,30,consultation,69,Female,5,14,1,0
+D007,12:30,4,5,test,15,Other,0,10,1,0
+D001,07:30,2,15,follow up,44,Female,3,14,0,1
+D005,06:00,0,15,follow up,44,Male,5,13,1,0
+D002,15:30,1,25,checkup,25,Other,2,10,1,0
+D006,18:30,1,25,test,20,Other,2,16,1,1
+D009,10:00,5,20,checkup,68,Other,4,7,0,1
+D002,09:30,2,30,consultation,78,Other,5,2,0,0
+D006,07:00,0,15,consultation,54,Female,1,18,0,1
+D004,17:30,3,25,test,39,Male,4,7,1,0
+D003,15:30,6,20,consultation,56,Female,3,17,0,0
+D003,16:00,3,0,checkup,30,Male,4,15,0,1
+D004,08:00,3,30,consultation,74,Other,1,0,0,1
+D002,12:30,6,25,checkup,44,Other,1,10,0,1
+D003,19:30,1,25,consultation,16,Male,1,18,0,1
+D001,09:30,0,20,test,55,Female,4,11,0,1
+D006,19:00,2,30,follow up,55,Other,5,6,1,1
+D008,18:00,6,30,test,24,Female,1,9,1,0
+D007,14:00,3,10,test,16,Female,5,6,0,1
+D002,17:00,1,0,test,50,Female,4,1,0,0
+D002,19:30,3,30,consultation,76,Female,4,5,1,0
+D002,19:30,6,30,checkup,21,Other,3,7,1,0
+D004,17:00,2,30,checkup,7,Male,1,18,0,0
+D004,17:00,0,15,checkup,26,Male,3,16,0,1
+D010,18:30,2,5,checkup,40,Other,3,17,0,1
+D002,08:00,1,25,test,68,Male,4,9,0,1
+D002,15:30,3,5,consultation,74,Female,3,15,1,0
+D008,18:00,2,15,consultation,28,Female,2,12,0,0
+D005,12:00,6,15,follow up,79,Female,1,2,0,0
+D009,16:30,1,5,checkup,50,Other,0,14,0,0
+D007,14:30,2,5,test,9,Other,0,5,0,1
+D007,12:00,0,10,checkup,21,Other,5,4,1,1
+D004,14:30,1,20,follow up,19,Female,2,19,1,1
+D002,14:30,1,5,consultation,67,Male,2,3,1,0
+D008,20:30,4,30,consultation,53,Female,5,13,0,1
+D004,18:30,4,15,consultation,28,Other,2,18,0,1
+D004,18:30,2,25,test,35,Other,2,3,1,1
+D008,08:00,2,5,test,13,Other,2,15,0,1
+D003,19:30,3,5,consultation,68,Other,2,11,0,0
+D006,11:30,5,30,consultation,25,Male,0,16,1,0
+D003,17:00,2,0,follow up,48,Female,3,3,1,0
+D001,19:30,4,20,checkup,8,Male,5,3,1,1
+D009,12:30,1,5,follow up,75,Female,5,11,1,0
+D009,07:00,3,20,checkup,24,Female,2,0,0,0
+D008,20:30,1,0,follow up,31,Female,5,6,0,0
+D003,06:00,6,15,test,67,Female,2,2,1,0
+D002,20:00,1,15,checkup,38,Other,3,5,0,1
+D003,16:00,5,0,checkup,49,Other,3,19,1,1
+D010,10:30,3,20,follow up,78,Female,3,6,1,0
+D005,19:30,6,20,consultation,20,Female,1,19,0,0
+D001,16:30,1,0,follow up,15,Male,3,4,1,0
+D009,17:00,6,0,checkup,54,Other,3,11,0,0
+D001,08:30,4,20,consultation,19,Other,1,3,0,0
+D008,06:30,6,0,checkup,73,Male,3,5,0,0
+D002,13:00,3,5,checkup,9,Male,2,14,0,0
+D007,18:30,2,0,test,43,Other,2,16,1,1
+D010,11:30,2,25,follow up,46,Male,5,8,0,1
+D008,07:00,5,15,checkup,12,Male,1,1,1,0
+D008,14:00,0,5,consultation,30,Female,1,1,1,0
+D010,12:00,1,10,test,64,Male,3,12,1,1
+D009,15:30,2,15,consultation,27,Other,4,11,1,1
+D003,20:30,0,5,follow up,33,Male,1,13,0,1
+D003,08:00,0,30,checkup,65,Female,5,3,0,1
+D003,18:30,5,25,test,59,Male,2,9,1,0
+D004,10:00,4,30,follow up,79,Female,0,10,1,0
+D007,14:00,0,15,follow up,48,Female,5,6,0,1
+D006,07:30,1,20,test,12,Other,3,13,1,0
+D010,07:00,2,15,follow up,54,Female,0,11,0,1
+D006,07:30,5,5,consultation,50,Other,2,17,1,1
+D010,12:30,1,25,consultation,76,Male,5,18,0,1
+D004,17:00,6,10,follow up,47,Male,2,11,1,0
+D005,06:00,4,20,checkup,65,Male,4,2,1,1
+D007,11:30,6,30,follow up,22,Male,2,8,0,0
+D005,19:30,1,30,test,67,Female,5,19,1,1
+D001,14:00,1,30,consultation,78,Female,3,15,1,1
+D001,14:00,3,0,test,73,Other,5,7,0,0
+D010,13:00,1,0,consultation,36,Female,5,17,1,1
+D001,12:30,2,5,checkup,10,Male,2,9,0,1
+D005,17:00,1,10,consultation,50,Male,1,19,0,0
+D007,17:30,5,5,follow up,7,Female,4,3,1,0
+D009,18:00,4,0,checkup,18,Female,0,1,1,0
+D004,19:00,0,20,test,65,Other,1,4,1,0
+D004,13:00,0,25,consultation,22,Male,0,10,1,0
+D010,19:30,1,20,consultation,38,Female,1,7,1,1
+D001,14:30,1,25,checkup,47,Female,0,0,1,0
+D007,08:00,5,15,test,16,Other,0,14,1,0
+D008,19:00,1,15,consultation,38,Other,0,2,0,1
+D004,15:00,2,30,checkup,59,Male,0,2,1,0
+D004,10:00,5,5,test,50,Male,4,5,0,1
+D004,08:00,3,15,test,54,Male,3,16,1,0
+D008,18:00,5,25,checkup,25,Other,3,18,1,0
+D010,06:30,6,10,checkup,21,Female,3,2,0,1
+D004,07:00,2,0,consultation,48,Other,4,13,1,1
+D008,10:30,5,25,checkup,24,Other,4,1,1,1
+D007,13:30,0,30,checkup,46,Male,2,19,0,1
+D008,08:30,5,15,test,35,Female,3,9,1,1
+D004,17:00,3,25,follow up,18,Male,3,1,1,0
+D009,09:00,5,10,checkup,63,Female,2,16,1,0
+D005,17:00,6,20,follow up,51,Female,3,2,0,1
+D001,08:30,6,25,checkup,75,Female,2,14,1,1
+D007,11:00,1,30,checkup,18,Other,4,4,1,1
+D010,07:30,3,30,consultation,48,Other,3,1,1,0
+D005,18:30,4,20,follow up,68,Other,4,14,1,0
+D010,16:00,5,20,test,21,Female,3,13,0,1
+D005,06:00,5,30,follow up,40,Male,2,19,0,0
+D003,07:30,5,25,consultation,75,Other,5,14,1,1
+D009,11:30,5,10,checkup,21,Male,5,19,1,1
+D008,13:30,5,10,checkup,50,Female,3,11,0,0
+D006,11:00,6,15,consultation,71,Female,0,7,0,1
+D002,07:30,2,30,checkup,41,Other,2,3,1,1
+D010,07:30,6,20,follow up,50,Female,0,12,0,0
+D009,19:00,2,25,test,53,Female,3,19,1,1
+D006,11:30,2,5,consultation,33,Female,5,14,0,1
+D004,14:00,5,0,consultation,27,Female,4,2,0,1
+D008,07:00,2,5,consultation,79,Other,0,6,0,0
+D008,11:00,4,0,consultation,67,Other,4,7,0,1
+D004,17:30,4,15,checkup,49,Male,1,13,1,0
+D008,18:30,3,20,follow up,19,Female,2,9,0,0
+D004,19:30,2,15,follow up,54,Male,4,14,0,1
+D006,16:30,4,30,test,67,Male,2,18,1,0
+D008,14:00,0,5,test,13,Female,5,12,0,0
+D002,12:30,1,20,test,14,Other,5,3,0,1
+D010,18:30,0,5,test,76,Female,4,16,1,1
+D002,11:00,3,15,follow up,7,Female,5,2,0,1
+D004,18:00,6,25,test,14,Male,4,2,1,1
+D002,09:30,3,30,follow up,65,Male,4,4,1,0
+D005,07:30,6,30,test,6,Other,4,3,1,0
+D003,12:30,3,20,checkup,44,Male,5,15,1,0
+D005,20:30,1,5,follow up,37,Other,0,4,0,1
+D006,17:00,5,20,consultation,42,Other,0,5,1,1
+D009,12:30,2,10,test,35,Other,2,12,0,1
+D006,12:30,4,25,consultation,79,Female,4,11,0,1
+D006,11:30,2,5,consultation,60,Other,2,3,0,0
+D007,18:00,2,30,checkup,67,Female,0,3,0,0
+D010,07:30,1,10,checkup,14,Male,4,12,0,0
+D005,17:30,0,20,test,74,Male,3,13,0,1
+D002,14:00,6,20,follow up,22,Male,4,10,0,0
+D007,20:30,5,5,follow up,62,Male,1,11,0,1
+D004,20:00,1,30,checkup,34,Male,2,7,0,0
+D010,14:00,6,10,follow up,65,Other,0,1,0,0
+D007,06:00,4,5,checkup,53,Male,4,13,1,0
+D005,06:00,4,15,test,49,Other,3,17,1,1
+D004,08:00,1,5,test,70,Female,2,4,1,1
+D006,07:00,5,30,test,34,Male,2,14,0,0
+D006,07:30,1,25,consultation,7,Other,0,3,1,0
+D009,12:00,0,5,test,28,Female,3,12,1,1
+D010,14:00,3,30,consultation,26,Female,3,12,1,0
+D005,14:00,4,20,consultation,34,Other,3,3,0,1
+D007,11:30,5,15,test,17,Other,3,18,0,1
+D004,11:30,5,5,follow up,60,Female,3,7,0,0
+D008,16:30,1,30,checkup,53,Other,4,16,0,0
+D010,15:00,2,15,test,15,Other,4,17,1,1
+D005,19:30,4,0,checkup,53,Male,1,13,1,0
+D001,13:00,5,20,follow up,38,Other,3,11,1,0
+D005,14:30,3,5,test,76,Male,3,5,1,1
+D006,17:30,0,25,test,62,Other,1,2,0,1
+D007,20:00,5,25,test,25,Male,5,0,0,1
+D008,17:30,4,15,checkup,13,Female,1,7,0,1
+D009,15:30,5,20,consultation,12,Female,5,10,1,0
+D004,06:30,1,0,follow up,26,Other,0,7,0,0
+D010,15:00,6,15,consultation,55,Female,4,4,0,1
+D002,09:00,4,10,checkup,49,Male,1,12,1,1
+D008,18:00,0,10,follow up,57,Female,0,11,1,0
+D003,12:30,6,0,follow up,19,Other,0,8,0,1
+D007,06:00,2,20,follow up,38,Other,2,2,0,0
+D003,10:30,1,15,follow up,50,Male,4,5,0,0
+D006,15:30,1,5,checkup,38,Male,1,4,0,0
+D004,08:30,1,30,checkup,20,Female,5,19,0,0
+D010,16:00,4,10,checkup,78,Female,3,4,0,0
+D003,15:30,6,20,consultation,11,Other,3,9,1,0
+D006,14:30,6,5,consultation,20,Other,4,9,1,0
+D003,17:00,4,0,test,51,Female,2,4,1,1
+D008,19:00,4,10,consultation,28,Female,3,4,0,1
+D001,08:30,3,5,follow up,78,Male,1,16,1,1
+D001,20:00,6,15,follow up,23,Other,1,9,0,1
+D008,13:00,1,30,test,67,Other,2,11,0,0
+D005,19:30,1,30,consultation,65,Other,0,9,1,0
+D009,08:30,6,10,test,7,Male,0,7,0,1
+D002,06:00,5,25,test,41,Other,2,13,0,0
+D009,20:30,4,10,follow up,23,Male,5,16,1,1
+D005,07:30,1,10,checkup,45,Other,5,6,1,0
+D004,20:30,3,30,follow up,80,Other,3,8,1,1
+D006,09:00,5,5,checkup,15,Male,1,8,0,0
+D004,18:00,0,0,consultation,72,Other,0,5,1,1
+D003,17:30,1,5,consultation,61,Female,1,3,1,1
+D003,14:30,6,15,test,74,Female,4,9,0,1
+D004,07:30,4,25,checkup,49,Other,4,4,1,0
+D010,10:30,3,10,consultation,43,Male,0,10,1,1
+D009,18:30,4,0,test,66,Female,0,15,1,1
+D005,19:30,2,5,test,76,Female,3,5,0,1
+D007,08:30,2,0,consultation,35,Male,4,16,0,1
+D004,19:30,6,0,consultation,22,Male,0,12,0,1
+D010,15:00,0,5,checkup,73,Female,1,19,0,0
+D007,12:30,3,25,checkup,34,Female,1,0,1,1
+D003,10:00,6,30,follow up,52,Female,5,15,0,1
+D003,19:30,6,15,follow up,74,Other,1,4,0,1
+D004,18:30,6,25,checkup,54,Female,1,14,1,0
+D001,19:00,6,0,checkup,65,Male,5,19,1,0
+D008,14:00,0,10,consultation,43,Female,2,17,1,1
+D010,08:30,0,5,checkup,79,Male,3,15,0,1
+D005,16:30,6,25,test,24,Male,0,5,0,0
+D005,08:30,1,25,checkup,21,Female,1,6,0,1
+D005,06:30,5,15,follow up,22,Other,0,10,1,0
+D008,14:00,1,20,checkup,46,Female,3,5,1,0
+D010,07:00,1,15,consultation,38,Male,2,9,0,0
+D003,18:30,4,30,follow up,35,Other,5,1,1,0
+D002,06:00,5,15,consultation,41,Female,3,13,1,1
+D008,19:30,0,0,test,27,Other,1,2,1,0
+D003,20:00,5,30,follow up,67,Male,4,14,0,1
+D003,10:30,4,25,test,6,Female,5,10,1,1
+D006,06:00,4,25,checkup,52,Other,0,16,1,1
+D002,17:00,0,30,consultation,14,Male,4,2,0,1
+D007,07:00,4,25,follow up,77,Female,1,11,0,0
+D001,14:30,5,15,consultation,18,Male,1,11,1,1
+D002,19:30,3,10,test,75,Other,2,8,1,1
+D001,14:30,5,10,consultation,62,Other,3,0,0,0
+D005,19:00,0,20,checkup,43,Female,2,19,0,1
+D001,13:00,6,30,follow up,75,Other,4,11,1,1
+D002,08:30,1,5,test,51,Male,1,5,1,1
+D003,14:00,1,25,checkup,46,Female,1,10,1,1
+D002,06:30,5,30,test,15,Female,2,7,1,1
+D003,06:00,5,30,test,53,Male,2,10,0,0
+D007,10:00,5,5,test,11,Female,5,19,1,1
+D002,19:00,6,15,checkup,21,Male,0,9,1,1
+D003,20:30,3,20,test,21,Female,3,11,0,0
+D004,08:00,6,15,consultation,78,Male,0,13,1,0
+D001,19:00,4,25,follow up,44,Female,2,12,0,0
+D003,07:00,1,25,follow up,24,Male,0,2,1,1
+D007,18:30,6,30,test,6,Male,5,16,1,1
+D003,20:30,5,20,checkup,31,Male,4,15,0,0
+D007,08:30,4,25,follow up,37,Other,0,6,0,1
+D003,13:00,5,0,checkup,54,Male,2,13,1,0
+D006,12:30,3,5,checkup,70,Male,0,18,1,1
+D009,12:00,3,20,consultation,10,Other,4,6,1,1
+D007,09:00,5,10,checkup,43,Female,4,5,0,1
+D001,17:30,6,0,checkup,33,Other,2,18,1,0
+D009,15:00,5,20,consultation,58,Other,4,3,0,0
+D005,10:30,1,25,follow up,79,Other,5,16,0,0
+D008,12:00,4,5,follow up,13,Male,4,19,1,0
+D005,17:00,5,0,follow up,57,Other,2,9,0,1
+D009,17:30,1,5,consultation,39,Other,4,12,1,1
+D005,18:30,6,15,follow up,69,Female,3,14,1,1
+D002,15:30,1,5,checkup,33,Other,3,15,1,1
+D007,07:00,1,25,follow up,31,Female,1,18,1,1
+D010,14:30,4,25,consultation,45,Female,4,18,1,1
+D009,18:30,3,30,follow up,36,Male,4,8,0,1
+D007,17:00,0,5,consultation,61,Female,2,15,0,1
+D003,08:00,2,20,consultation,71,Female,3,16,1,0
+D002,12:30,4,5,test,57,Male,3,1,1,0
+D005,13:00,2,10,test,20,Female,0,14,0,0
+D009,12:00,6,20,test,53,Male,3,1,0,1
+D004,17:30,6,25,consultation,25,Male,1,15,0,1
+D008,18:00,5,30,follow up,41,Other,1,2,0,0
+D006,16:00,4,30,checkup,6,Male,3,17,1,1
+D004,18:30,1,20,follow up,63,Female,3,2,1,1
+D004,20:30,4,30,consultation,11,Male,1,1,0,0
+D001,11:00,2,10,consultation,11,Other,3,19,1,0
+D001,13:30,5,25,checkup,63,Female,4,7,0,1
+D009,20:30,2,15,follow up,59,Female,0,6,1,1
+D006,17:30,4,15,follow up,31,Male,0,2,0,1
+D002,08:00,5,20,follow up,59,Female,2,5,1,1
+D010,20:30,4,15,checkup,68,Female,4,5,0,1
+D006,15:00,0,0,follow up,20,Other,1,16,0,1
+D010,06:00,4,30,test,6,Male,1,14,1,1
+D006,06:00,2,20,consultation,5,Female,5,7,0,1
+D004,07:00,2,30,follow up,66,Female,0,13,1,0
+D005,19:00,3,30,follow up,12,Other,2,11,1,0
+D008,09:00,2,30,checkup,13,Male,2,16,0,0
+D002,12:00,0,30,consultation,45,Other,0,5,1,1
+D001,15:30,3,30,checkup,32,Other,2,3,1,1
+D003,09:00,6,15,checkup,29,Female,3,14,1,1
+D002,12:00,6,20,checkup,31,Male,0,9,1,0
+D010,15:30,0,25,checkup,47,Other,0,2,1,0
+D001,18:30,6,10,consultation,46,Female,1,6,0,0
+D003,14:00,1,5,follow up,19,Female,4,11,1,0
+D009,12:00,4,10,test,23,Male,2,11,1,1
+D010,15:00,2,20,consultation,11,Male,0,9,1,0
+D001,13:00,3,15,consultation,80,Male,5,14,1,0
+D006,19:30,6,25,consultation,64,Male,1,2,1,1
+D003,14:30,2,25,consultation,65,Male,1,3,0,0
+D003,14:00,5,10,checkup,63,Male,0,1,1,1
+D008,19:00,6,5,checkup,49,Female,4,3,0,1
+D003,06:00,4,25,checkup,43,Other,3,8,0,0
+D002,09:00,3,15,follow up,48,Other,5,12,0,1
+D005,15:00,1,5,test,78,Other,0,12,0,1
+D001,11:00,2,15,consultation,18,Other,4,15,1,1
+D010,09:30,6,5,consultation,23,Male,1,9,0,0
+D002,14:00,3,5,follow up,45,Male,4,16,0,1
+D010,13:30,4,0,checkup,21,Female,0,7,1,0
+D002,17:00,0,30,test,8,Other,3,14,1,0
+D005,08:30,4,5,checkup,65,Male,1,11,1,0
+D006,13:00,1,5,follow up,14,Female,0,3,0,1
+D006,16:30,1,25,test,63,Male,4,18,1,0
+D006,10:00,1,5,test,5,Other,3,17,1,0
+D006,09:00,3,20,follow up,9,Female,4,9,0,1
+D003,17:30,5,25,follow up,64,Female,0,10,1,0
+D007,19:00,5,20,checkup,11,Female,4,15,1,0
+D003,13:00,6,10,test,26,Female,5,18,1,0
+D008,17:30,3,20,checkup,78,Male,5,19,1,0
+D002,18:30,0,5,test,40,Female,1,12,0,0
+D009,10:30,5,0,follow up,80,Male,1,13,1,0
+D006,07:00,1,30,follow up,48,Other,1,12,1,1
+D003,12:00,1,25,checkup,26,Female,4,14,0,0
+D010,07:30,1,15,test,65,Male,3,15,1,0
+D010,20:30,5,15,follow up,38,Male,4,17,0,1
+D009,10:00,5,10,consultation,17,Male,5,7,1,0
+D006,08:30,6,0,test,79,Female,3,15,0,1
+D004,07:00,5,0,follow up,6,Other,0,10,0,0
+D009,19:30,1,0,checkup,16,Female,4,13,0,0
+D002,07:00,6,20,follow up,53,Other,5,11,0,0
+D004,17:00,2,15,checkup,63,Female,3,14,1,0
+D008,18:00,6,0,follow up,12,Male,3,7,0,0
+D002,11:30,3,0,test,30,Male,3,4,1,0
+D001,10:00,5,0,test,38,Other,0,1,0,0
+D006,19:00,5,25,consultation,9,Male,3,5,0,0
+D003,07:30,4,25,follow up,66,Female,3,17,0,0
+D008,19:30,0,15,test,20,Male,4,18,1,0
+D006,12:30,5,25,follow up,51,Female,2,2,0,0
+D010,20:30,4,0,follow up,29,Female,5,8,1,1
+D010,08:30,0,25,checkup,29,Other,0,4,1,1
+D008,17:30,0,30,consultation,68,Other,3,19,1,0
+D006,17:30,2,30,consultation,56,Female,1,16,1,1
+D010,16:00,5,5,consultation,7,Male,4,1,1,1
+D009,09:00,0,10,checkup,63,Male,1,16,1,0
+D002,16:00,3,20,test,13,Other,3,7,1,1
+D001,09:30,4,20,test,46,Other,0,12,1,1
+D004,06:30,1,25,consultation,75,Female,3,5,1,0
+D008,20:30,6,5,consultation,67,Other,0,0,0,0
+D003,18:00,1,5,consultation,39,Other,3,8,0,1
+D008,07:30,3,20,follow up,43,Female,3,0,0,1
+D001,14:00,0,20,checkup,74,Male,1,9,0,0
+D003,07:00,0,30,consultation,65,Other,1,3,0,0
+D005,11:00,1,15,consultation,47,Female,3,1,1,0
+D005,08:30,4,0,consultation,35,Other,3,12,1,0
+D003,07:00,1,0,consultation,57,Female,3,17,1,1
+D002,15:30,0,15,follow up,32,Female,3,4,1,0
+D009,08:30,0,25,checkup,40,Female,0,17,1,0
+D005,09:00,1,30,consultation,78,Male,1,2,1,1
+D003,08:00,6,15,follow up,6,Other,3,14,1,0
+D007,06:30,4,5,test,78,Other,3,19,0,0
+D005,09:00,6,20,consultation,59,Other,3,9,0,1
+D008,20:00,1,0,checkup,57,Female,1,7,0,1
+D009,16:00,3,25,test,25,Other,3,17,0,1
+D007,11:30,3,5,checkup,64,Female,5,0,1,1
+D003,13:00,2,15,follow up,74,Female,1,15,1,0
+D005,08:30,0,20,checkup,11,Female,3,7,1,0
+D009,14:00,4,25,checkup,76,Other,1,3,0,1
+D007,17:00,6,20,follow up,33,Male,2,18,1,0
+D004,20:00,2,10,consultation,67,Male,4,16,1,0
+D008,09:00,2,30,consultation,29,Other,0,2,1,0
+D002,13:00,2,0,follow up,68,Male,1,10,0,0
+D002,16:00,3,10,consultation,61,Female,5,0,1,0
+D006,10:30,6,20,checkup,57,Other,2,13,0,0
+D002,08:00,4,5,follow up,26,Other,1,9,0,0
+D009,11:30,3,5,consultation,73,Other,1,19,0,0
+D010,13:00,0,10,checkup,61,Male,2,4,0,1
+D005,11:30,1,10,checkup,74,Female,4,6,1,1
+D008,19:30,4,20,follow up,42,Female,2,19,0,1
+D009,12:00,3,10,checkup,66,Female,1,13,0,1
+D002,07:30,4,30,follow up,62,Male,0,6,1,0
+D007,18:00,0,0,consultation,16,Female,3,4,1,0
+D001,18:00,1,25,follow up,52,Female,2,0,0,1
+D005,10:00,3,25,test,61,Female,1,16,1,1
+D008,08:30,4,0,consultation,31,Male,3,19,0,1
+D008,15:30,0,0,follow up,39,Male,1,11,0,0
+D001,16:00,2,20,follow up,10,Female,4,6,0,0
+D001,19:00,1,10,follow up,65,Other,5,13,0,0
+D004,11:30,5,25,follow up,8,Female,2,10,1,0
+D009,12:00,4,25,follow up,38,Male,4,1,0,1
+D004,19:00,2,10,consultation,50,Female,2,6,1,1
+D004,12:30,1,30,follow up,26,Male,2,17,1,0
+D004,08:00,4,20,test,23,Male,1,10,1,1
+D001,18:30,0,5,test,69,Female,1,16,1,1
+D009,07:00,0,0,test,7,Other,2,6,0,0
+D003,10:30,6,10,test,43,Male,5,16,1,0
+D005,09:30,1,10,checkup,31,Male,0,8,0,0
+D005,12:00,6,15,test,30,Female,0,16,1,0
+D007,07:00,0,0,checkup,6,Other,0,18,1,0
+D004,16:30,5,10,consultation,16,Other,5,18,0,0
+D009,09:30,6,25,checkup,69,Male,0,2,0,0
+D005,16:30,1,10,follow up,73,Female,5,2,0,0
+D008,08:30,3,10,checkup,61,Other,0,4,1,1
+D001,18:30,1,15,checkup,45,Other,3,2,1,0
+D007,18:30,2,20,checkup,15,Male,3,2,0,1
+D004,17:30,2,25,checkup,33,Other,3,6,0,0
+D002,09:00,5,15,consultation,55,Male,4,13,0,1
+D002,12:00,3,25,test,26,Male,2,19,0,0
+D005,12:30,6,15,consultation,40,Female,4,12,1,0
+D009,07:00,5,20,test,67,Other,2,3,0,1
+D004,20:30,1,25,test,8,Male,5,1,0,1
+D008,13:30,3,20,follow up,24,Female,4,12,0,1
+D008,06:30,3,15,test,74,Other,4,11,0,0
+D006,09:30,2,30,checkup,61,Other,0,1,1,0
+D006,19:00,1,10,test,67,Female,4,13,0,1
+D001,12:30,6,5,consultation,55,Female,3,12,1,1
+D005,07:30,0,0,follow up,21,Male,2,16,0,1
+D001,19:00,3,10,test,57,Female,0,13,0,1
+D001,06:00,0,25,consultation,44,Male,2,3,1,0
+D006,11:00,4,15,consultation,7,Male,3,12,0,1
+D004,10:00,6,15,checkup,31,Male,3,10,1,0
+D007,14:30,2,15,test,68,Male,0,16,1,0
+D008,11:30,4,15,follow up,16,Other,4,2,0,0
+D001,09:30,3,5,follow up,14,Male,2,10,1,1
+D009,20:30,1,15,checkup,37,Female,4,9,1,0
+D006,13:30,4,15,test,64,Other,5,10,1,0
+D009,20:30,2,15,checkup,35,Other,5,13,1,1
+D003,16:30,5,5,follow up,39,Female,5,3,1,0
+D006,19:30,1,5,consultation,36,Male,3,10,1,1
+D010,13:00,2,5,follow up,38,Female,5,11,1,0
+D006,16:30,6,0,follow up,43,Female,3,18,1,0
+D006,10:00,6,5,consultation,19,Other,5,10,0,1
+D005,06:00,2,15,test,35,Other,0,15,0,0
+D008,15:30,1,5,test,27,Other,2,9,1,0
+D003,06:00,3,20,consultation,19,Male,4,8,0,0
+D009,13:00,3,25,checkup,44,Male,5,19,1,0
+D001,07:00,4,15,follow up,51,Male,0,10,1,1
+D008,11:30,0,15,checkup,43,Other,1,6,0,0
+D010,09:00,6,0,consultation,65,Male,3,18,1,1
+D002,18:00,5,30,checkup,63,Male,0,15,1,0
+D005,16:00,1,25,checkup,45,Male,0,2,1,1
+D005,10:30,5,15,checkup,62,Female,5,3,1,1
+D002,11:00,6,10,test,15,Male,2,4,0,1
+D010,06:30,5,20,consultation,16,Female,1,5,1,0
+D002,07:30,4,10,follow up,16,Female,1,19,1,0
+D009,18:30,6,15,test,20,Male,5,4,1,0
+D003,09:30,1,15,follow up,32,Other,5,13,0,1
+D009,20:30,1,20,checkup,36,Other,4,13,1,1
+D008,17:30,5,15,test,54,Female,3,14,0,1
+D006,09:30,0,0,consultation,35,Female,2,19,0,0
+D004,09:30,4,15,follow up,55,Female,2,3,1,1
+D005,07:00,1,20,checkup,48,Male,1,2,1,1
+D008,15:30,2,0,test,68,Female,5,7,0,0
+D001,16:30,3,5,consultation,67,Female,4,17,1,0
+D007,15:00,1,0,test,28,Other,3,5,0,1
+D003,09:00,3,10,follow up,63,Other,0,17,0,1
+D005,19:00,6,10,consultation,26,Other,4,16,1,1
+D005,09:30,3,0,test,68,Male,0,17,1,0
+D005,15:30,2,20,consultation,46,Male,0,2,0,1
+D009,19:00,2,20,consultation,47,Female,5,12,0,0
+D003,15:30,2,10,follow up,14,Male,4,7,0,0
+D001,15:00,0,30,follow up,25,Other,3,6,0,0
+D008,13:00,3,30,checkup,44,Other,4,3,1,1
+D008,13:00,3,15,checkup,65,Male,4,12,1,1
+D010,19:00,4,5,follow up,59,Male,0,10,1,1
+D008,16:30,4,25,follow up,42,Other,3,2,1,0
+D009,10:30,2,30,checkup,71,Male,2,11,1,1
+D005,18:00,4,15,consultation,17,Female,5,14,0,0
+D005,15:30,6,20,test,19,Male,5,9,1,1
+D003,20:30,3,25,follow up,45,Female,5,9,1,0
+D010,12:30,1,0,consultation,18,Female,4,0,1,0
+D009,08:00,5,15,follow up,43,Female,4,7,1,0
+D005,06:30,0,5,follow up,7,Other,1,17,1,0
+D001,13:30,1,15,test,16,Male,3,3,0,1
+D003,18:30,5,15,consultation,65,Female,3,11,0,1
+D009,12:30,0,10,follow up,18,Female,5,8,0,0
+D005,10:00,3,15,checkup,34,Female,0,10,1,1
+D008,06:00,0,15,follow up,62,Other,3,0,0,0
+D009,07:30,2,15,test,69,Male,4,18,0,1
+D008,15:30,5,25,follow up,58,Female,5,14,1,1
+D002,09:00,2,25,follow up,66,Female,1,4,1,1
+D004,15:30,1,20,follow up,7,Female,2,7,1,0
+D007,16:30,6,0,follow up,60,Female,4,4,0,1
+D005,14:00,6,0,test,24,Female,4,12,0,1
+D001,07:30,6,15,consultation,18,Female,4,15,1,0
+D008,09:30,5,0,follow up,51,Other,5,6,1,0
+D008,08:00,5,10,follow up,22,Male,1,9,0,1
+D007,18:00,2,10,checkup,15,Male,2,14,0,1
+D003,17:30,6,5,consultation,59,Female,3,18,1,1
+D008,06:00,1,30,follow up,71,Male,0,7,1,1
+D005,14:30,3,30,consultation,24,Male,0,19,0,1
+D003,08:30,5,25,test,45,Other,0,16,1,0
+D005,12:30,4,30,checkup,49,Male,3,15,0,0
+D002,13:30,3,25,consultation,71,Other,2,4,0,0
+D003,09:30,6,20,follow up,35,Male,5,8,0,1
+D007,14:00,5,20,test,20,Female,5,18,0,0
+D002,17:00,6,25,follow up,49,Female,2,13,1,1
+D005,15:30,4,20,checkup,51,Male,0,3,1,1
+D002,14:30,3,5,checkup,32,Male,0,7,0,1
+D007,06:30,4,5,follow up,63,Male,5,10,0,0
+D007,17:00,0,25,consultation,76,Other,0,12,0,1
+D004,10:30,0,20,checkup,20,Male,2,19,0,0
+D002,09:30,6,20,consultation,11,Female,2,4,0,1
+D006,16:00,2,0,checkup,58,Male,4,6,1,0
+D006,12:30,6,5,checkup,62,Other,3,3,1,0
+D003,08:30,3,10,consultation,61,Other,2,13,1,1
+D001,14:00,6,30,checkup,76,Other,0,13,1,0
+D006,06:30,4,30,test,77,Female,1,15,0,0
+D008,11:00,0,10,test,36,Female,4,9,0,1
+D004,18:00,0,15,follow up,48,Female,1,8,0,1
+D006,12:30,0,0,checkup,41,Male,1,5,0,1
+D002,10:00,5,5,follow up,46,Male,0,14,0,1
+D006,12:30,1,15,test,38,Other,0,1,1,1
+D001,06:00,1,15,checkup,19,Female,0,6,0,0
+D007,11:00,5,5,test,39,Other,4,13,1,0
+D002,07:30,6,5,follow up,77,Male,3,2,1,0
+D003,15:30,1,30,checkup,73,Male,4,9,1,1
+D002,17:30,2,25,checkup,5,Male,3,5,1,1
+D004,13:00,6,25,consultation,79,Other,2,1,0,0
+D008,12:30,3,25,test,22,Female,4,20,1,0
+D007,09:00,2,30,follow up,39,Other,5,19,1,1
+D009,11:00,1,25,follow up,65,Male,0,13,1,0
+D010,15:00,0,30,consultation,73,Male,5,9,0,1
+D002,17:30,2,15,follow up,6,Other,3,7,0,1
+D010,14:00,5,0,test,50,Male,0,16,0,1
+D007,14:00,0,10,consultation,31,Other,1,19,1,0
+D004,19:30,1,25,checkup,13,Female,1,15,1,1
+D007,07:00,4,25,checkup,29,Male,0,19,0,1
+D003,13:30,5,25,follow up,46,Female,3,5,1,1
+D004,14:00,6,0,consultation,11,Male,3,10,0,1
+D010,14:30,4,30,consultation,33,Male,3,19,0,1
+D005,08:30,0,25,test,8,Female,3,16,1,1
+D005,12:30,1,10,consultation,47,Female,1,18,1,0
+D010,07:30,3,20,checkup,15,Male,0,7,1,1
+D003,20:30,6,15,checkup,43,Male,5,8,1,1
+D004,20:30,0,10,follow up,56,Male,4,15,0,0
+D006,14:30,4,0,checkup,54,Other,3,17,0,1
+D005,09:30,2,20,checkup,18,Male,0,12,0,1
+D009,10:30,1,25,checkup,50,Other,3,14,0,1
+D002,19:30,1,10,consultation,70,Female,2,6,0,0
+D009,19:30,2,20,test,42,Male,0,10,1,0
+D007,14:30,6,30,consultation,59,Other,1,19,0,1
+D010,18:00,3,25,consultation,47,Female,4,19,0,1
+D007,06:30,3,30,test,68,Male,0,13,0,0
+D008,06:30,6,30,consultation,53,Female,3,4,1,1
+D010,07:30,0,20,checkup,23,Male,3,4,1,1
+D003,13:00,1,5,follow up,27,Other,2,14,1,1
+D009,13:30,0,5,consultation,17,Male,5,3,1,1
+D007,13:00,2,15,follow up,52,Other,5,3,0,0
+D003,20:00,1,30,follow up,29,Female,3,14,0,0
+D004,18:00,4,5,follow up,24,Other,1,1,1,0
+D010,19:00,3,5,test,65,Female,4,1,1,1
+D001,16:30,3,5,consultation,52,Female,5,9,0,0
+D005,06:30,5,30,consultation,31,Female,1,9,0,0
+D008,08:00,3,15,checkup,52,Male,4,2,1,0
+D007,12:30,1,20,consultation,64,Female,4,7,1,1
+D010,18:30,2,10,test,8,Other,3,5,1,1
+D006,19:00,4,25,checkup,40,Female,0,2,1,0
+D007,19:00,5,10,test,43,Female,5,17,0,0
+D010,08:00,6,30,checkup,6,Other,2,16,0,1
+D010,16:30,4,30,follow up,55,Other,1,14,0,0
+D008,11:00,4,30,test,64,Female,0,6,1,0
+D002,09:00,3,15,consultation,52,Other,4,17,1,0
+D007,12:00,6,10,checkup,33,Male,3,13,0,0
+D003,06:00,0,20,test,22,Female,2,11,0,0
+D008,07:00,4,15,checkup,65,Other,2,11,0,0
+D006,08:30,0,25,consultation,9,Male,4,10,0,0
+D005,13:00,2,5,test,42,Other,4,1,1,1
+D002,06:00,1,10,checkup,55,Male,0,3,0,0
+D001,13:00,1,30,checkup,44,Other,5,13,0,1
+D009,09:00,4,5,checkup,40,Male,0,19,0,1
+D007,20:00,4,10,test,63,Female,4,1,0,0
+D010,20:30,5,30,test,55,Male,1,8,0,1
+D004,15:30,3,15,checkup,28,Other,4,2,0,0
+D003,16:30,5,20,consultation,13,Other,5,14,0,1
+D007,20:30,6,20,checkup,52,Female,0,10,1,0
+D005,19:30,1,20,follow up,64,Female,0,13,1,0
+D009,15:00,3,30,test,55,Other,0,5,1,0
+D009,08:00,3,0,consultation,75,Female,1,14,1,1
+D007,15:30,0,5,follow up,20,Female,5,8,0,1
+D007,10:30,2,5,follow up,50,Male,1,14,1,1
+D002,17:30,0,30,consultation,54,Female,2,9,1,0
+D002,16:00,0,0,follow up,8,Male,2,16,0,1
+D002,15:00,1,25,follow up,10,Female,4,2,0,0
+D007,16:30,1,5,follow up,50,Male,1,0,1,1
+D001,11:00,1,0,consultation,52,Male,0,17,1,0
+D008,18:30,1,10,consultation,46,Other,5,8,0,0
+D002,11:00,6,25,follow up,66,Female,2,0,1,0
+D007,10:30,5,5,test,34,Female,4,15,0,0
+D006,20:30,3,30,test,15,Male,1,7,0,1
+D004,07:30,1,25,consultation,35,Female,4,19,0,0
+D006,19:30,2,25,test,71,Male,5,16,0,1
+D003,12:00,1,20,follow up,36,Other,5,14,1,0
+D005,06:30,0,0,consultation,13,Female,0,12,0,1
+D001,08:30,0,5,consultation,35,Female,0,8,0,0
+D002,13:00,4,5,checkup,41,Other,3,19,1,0
+D009,17:30,2,15,follow up,26,Female,3,8,0,1
+D008,09:00,6,0,test,73,Male,4,14,1,0
+D007,17:00,3,10,follow up,76,Other,3,1,1,0
+D004,13:00,1,5,checkup,6,Other,5,14,1,1
+D004,12:30,2,15,consultation,44,Other,4,1,0,1
+D010,08:00,1,30,checkup,37,Female,2,10,1,0
+D001,17:30,3,15,consultation,36,Male,0,18,1,0
+D005,12:00,4,15,consultation,37,Other,4,11,0,1
+D010,06:30,5,25,test,55,Male,4,19,1,0
+D006,11:30,1,30,test,37,Male,2,10,1,0
+D005,13:00,5,15,checkup,18,Other,4,15,1,0
+D004,15:00,3,25,consultation,5,Male,3,0,1,1
+D003,12:30,3,25,test,60,Other,1,7,1,1
+D001,20:30,0,15,test,28,Female,0,15,0,0
+D007,15:00,5,20,follow up,26,Other,2,2,1,0
+D004,16:30,0,20,consultation,66,Female,5,15,1,0
+D010,11:00,5,20,checkup,17,Other,4,15,0,1
+D003,10:30,3,10,test,48,Male,1,18,0,0
+D007,10:30,3,25,follow up,8,Other,0,17,0,0
+D004,17:30,3,20,checkup,70,Female,5,4,1,1
+D001,20:30,2,30,follow up,46,Female,3,5,0,0
+D009,10:00,3,25,test,54,Other,4,4,1,1
+D009,17:30,6,30,follow up,21,Other,0,6,1,0
+D005,09:30,0,15,checkup,36,Other,1,15,0,0
+D006,15:30,0,5,follow up,54,Female,1,14,0,0
+D004,14:30,5,25,checkup,16,Female,2,17,1,1
+D002,20:00,5,25,consultation,76,Female,1,4,0,1
+D005,11:30,0,10,consultation,19,Female,2,3,1,1
+D005,15:00,4,20,consultation,54,Male,2,15,0,0
+D001,14:00,0,20,checkup,45,Female,2,16,0,1
+D002,08:30,1,25,consultation,45,Male,4,19,0,0
+D001,09:00,5,30,test,68,Female,5,19,1,0
+D008,20:00,6,25,follow up,33,Male,5,1,0,1
+D003,12:30,4,15,follow up,59,Male,3,19,1,0
+D009,10:00,2,10,follow up,75,Other,0,3,1,0
+D007,12:00,5,5,follow up,61,Other,3,6,1,0
+D009,09:30,1,25,follow up,51,Male,4,2,1,0
+D002,20:30,5,30,consultation,12,Other,2,19,0,0
+D006,17:30,4,25,checkup,80,Other,1,12,1,1
+D004,19:00,3,10,follow up,53,Female,5,13,1,0
+D008,16:00,5,15,checkup,6,Female,0,2,0,1
+D010,20:00,4,20,follow up,40,Other,5,2,1,1
+D008,06:00,4,5,follow up,46,Male,5,18,0,0
+D003,09:30,4,30,follow up,13,Other,4,11,1,0
+D007,18:30,0,5,follow up,5,Female,3,16,0,0
+D008,09:00,1,25,consultation,16,Male,2,17,1,1
+D010,19:30,2,10,follow up,59,Male,0,5,0,0
+D008,19:30,5,20,follow up,22,Other,3,14,1,1
+D003,11:30,1,5,consultation,32,Female,4,11,1,0
+D007,20:00,0,20,test,38,Other,5,18,0,1
+D004,20:30,0,25,follow up,29,Female,2,11,0,0
+D008,12:00,6,15,checkup,8,Other,1,2,0,0
+D001,16:30,4,15,follow up,47,Female,0,7,0,1
+D001,08:30,0,0,test,33,Female,0,15,1,1
+D010,09:00,2,20,test,17,Other,2,14,1,0
+D005,14:30,0,5,checkup,54,Male,2,16,0,1
+D008,15:30,2,0,follow up,21,Other,3,11,1,0
+D002,12:00,6,5,consultation,63,Other,3,19,0,1
+D010,11:00,4,25,consultation,44,Other,0,19,0,1
+D002,13:30,5,5,consultation,26,Other,0,2,1,0
+D009,10:30,3,25,follow up,66,Male,4,13,1,0
+D006,09:30,1,30,checkup,59,Male,4,15,1,0
+D010,16:00,4,0,follow up,26,Other,4,18,1,1
+D004,18:30,4,10,follow up,59,Female,3,3,1,1
+D009,17:00,2,10,follow up,42,Other,1,0,1,0
+D006,16:00,4,30,checkup,64,Other,3,1,1,0
+D007,13:00,2,10,checkup,5,Other,5,4,0,1
+D001,14:30,0,20,follow up,57,Female,3,0,0,1
+D009,12:30,2,10,test,59,Female,4,16,0,1
+D003,19:00,6,15,follow up,22,Male,5,9,0,0
+D007,15:00,0,5,checkup,58,Other,2,18,0,0
+D006,11:00,5,10,checkup,58,Other,4,10,1,0
+D008,11:00,5,25,follow up,21,Other,0,16,0,1
+D004,11:00,0,30,test,11,Male,2,8,0,0
+D006,17:30,2,15,checkup,59,Female,4,3,0,1
+D009,08:30,5,5,follow up,30,Other,5,15,0,0
+D009,18:00,1,5,consultation,34,Other,1,8,0,1
+D001,10:00,3,0,test,16,Other,3,8,0,1
+D004,10:30,3,0,checkup,11,Female,0,5,0,1
+D006,11:00,3,5,checkup,11,Male,0,0,1,0
+D005,15:00,2,20,test,60,Other,2,19,1,0
+D007,20:00,0,25,follow up,47,Female,5,16,0,0
+D008,12:30,2,5,follow up,16,Other,1,12,1,1
+D005,13:00,5,15,follow up,14,Female,4,7,1,1
+D006,13:00,1,15,consultation,76,Other,2,9,1,1
+D002,16:30,3,20,test,26,Other,2,14,1,1
+D001,11:30,0,30,follow up,55,Male,5,10,0,1
+D009,20:30,3,20,checkup,56,Other,2,4,1,0
+D002,14:00,4,25,follow up,70,Male,4,14,1,1
+D010,09:30,0,5,follow up,10,Male,1,6,1,0
+D004,20:30,1,30,consultation,73,Other,0,13,0,0
+D008,10:00,5,20,consultation,22,Female,4,6,0,1
+D005,18:00,2,0,follow up,53,Other,2,17,0,0
+D007,06:00,2,10,follow up,79,Other,3,3,0,0
+D004,09:30,1,15,follow up,68,Other,3,4,0,1
+D004,06:30,2,5,test,55,Male,4,4,0,0
+D003,17:30,3,25,checkup,17,Other,4,3,0,1
+D004,16:30,3,0,checkup,6,Male,0,3,1,0
+D004,20:30,6,0,checkup,74,Female,2,17,1,0
+D002,16:30,6,20,checkup,25,Female,2,9,1,0
+D003,12:30,2,25,consultation,7,Female,0,11,0,0
+D003,15:30,0,5,follow up,34,Female,3,3,0,1
+D009,20:30,1,0,test,50,Male,4,7,0,0
+D001,14:00,3,20,follow up,28,Female,3,3,0,1
+D009,06:00,2,15,checkup,38,Male,0,15,0,0
+D006,10:00,1,15,test,66,Other,0,11,1,1
+D002,10:30,1,5,checkup,50,Male,3,8,1,1
+D005,19:00,3,20,follow up,73,Other,3,10,0,1
+D009,07:30,3,20,follow up,16,Male,2,0,0,0
+D009,19:30,1,0,test,49,Male,1,6,0,0
+D003,14:00,1,5,consultation,12,Other,1,2,0,0
+D006,14:30,3,10,consultation,18,Other,4,1,1,1
+D010,16:00,2,5,checkup,36,Female,0,11,0,0
+D002,13:00,4,25,follow up,65,Other,5,7,0,0
+D004,16:00,1,0,checkup,27,Other,1,0,0,1
+D005,14:30,6,10,follow up,34,Male,1,5,0,0
+D010,07:00,5,5,consultation,12,Female,3,4,1,1
+D007,13:30,2,25,follow up,53,Other,0,16,0,0
+D001,12:30,0,10,consultation,8,Male,2,3,0,0
+D007,08:00,0,30,test,29,Female,1,12,1,1
+D001,07:00,4,20,test,77,Other,0,1,1,0
+D008,10:30,2,30,follow up,55,Male,1,6,1,1
+D002,07:30,5,20,checkup,69,Female,0,11,0,0
+D010,09:30,1,25,checkup,15,Female,0,19,0,0
+D003,12:00,5,5,consultation,69,Female,5,12,1,1
+D002,12:30,2,10,follow up,60,Female,5,15,1,1
+D004,14:30,6,30,test,75,Other,3,2,1,1
+D008,20:00,2,20,checkup,50,Other,0,4,1,0
+D006,08:30,4,15,consultation,51,Other,3,8,1,1
+D006,18:30,4,30,consultation,52,Other,5,8,1,0
+D003,08:00,6,5,consultation,24,Female,2,7,0,0
+D002,06:30,6,15,follow up,49,Female,3,13,0,1
+D006,10:00,5,0,test,60,Male,3,6,0,0
+D010,13:00,2,15,checkup,74,Female,3,3,1,1
+D008,14:00,4,30,follow up,12,Other,3,19,1,0
+D008,19:00,2,5,consultation,13,Female,1,15,0,1
+D004,16:30,3,25,checkup,6,Male,4,10,0,1
+D005,06:30,2,15,checkup,15,Female,3,17,0,1
+D009,20:30,2,25,consultation,79,Other,4,9,0,1
+D002,18:30,1,13,checkup,59,Male,0,5,0,1
+D005,08:30,1,5,test,50,Other,1,0,0,1
