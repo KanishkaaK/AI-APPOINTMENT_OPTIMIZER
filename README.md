@@ -51,3 +51,12 @@ The model was trained on a synthetic dataset of appointments with the following 
 
 The model was trained on synthetic data and achieved an accuracy of **47.52%** on the test set.
 For improved performance in real scenarios, a larger and more realistic dataset is recommended.
+
+
+
+
+
+## 📄 License
+This project is licensed under a custom copyright license.  
+Usage, reproduction, or distribution without permission is strictly prohibited.  
+See `LICENSE` file for full terms.
